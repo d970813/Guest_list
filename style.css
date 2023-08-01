@@ -2,17 +2,20 @@
 {
 	margin-top: 20px; 
 	margin-bottom: 20px; 
+	background-color: rgb(142, 198, 247);
 }
 #sort_button
 {
 	display: none;
 	margin-top: 20px; 
 	margin-bottom: 20px; 
+	background-color: rgb(18, 99, 251);
 }
 
 input
 {
 	margin: 10px;
+	background-color: seagreen;
 }
 .display_name_with_commas
 {
